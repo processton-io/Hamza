@@ -1,14 +1,14 @@
 {
   "header": {
-    "bg": "#FFFFFF",
-    "text_default_color": "#000000",
-    "text_hover_color": "#3b82f6",
-    "text_default_bg": "#000000",
-    "text_hover_bg": "#3b82f6",
-    "social_bg": "#000000",
-    "social_text_default_color": "#FFFFFF",
-    "social_text_hover_color": "#3b82f6",
-    "social_text_default_bg": "#000000",
-    "social_text_hover_bg": "#000000"
+    "bg": "#03045e",
+    "text_default_color": "#caf0f8",
+    "text_hover_color": "#00b4d8",
+    "text_default_bg": "#03045e",
+    "text_hover_bg": "#03045e",
+    "social_bg": "#90e0ef",
+    "social_text_default_color": "#0077b6",
+    "social_text_hover_color": "#03045e",
+    "social_text_default_bg": "#90e0ef",
+    "social_text_hover_bg": "#90e0ef"
   }
 }
